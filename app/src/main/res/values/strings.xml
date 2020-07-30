@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ValuteConverter</string>
+    <string name="text_source_currency">Исходная валюта</string>
+    <string name="text_sum_source_currency">Сумма исходной валюты</string>
+    <string name="text_final_currency">Конечная валюта</string>
+    <string name="text_data">Текущая дата:</string>
+    <string name="text_convert_btn">Сконвертировать</string>
+    <string name="text_request_btn">Обновить курсы валют</string>
+    <string name="text_sum_final_currency">Сумма в конечной валюте:</string>
+    <string name="text_result">0.0</string>
+    <string name="text_convertion_simbol">----></string>
+    <string name="text_history">Последние операции:</string>
+    <string name="change_date">Изменить дату</string>
+</resources>
